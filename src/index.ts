@@ -34,7 +34,7 @@ Object.assign(fsdImport.configs, {
       rules: {
         "@fsd-import/relative-path": "error",
         "@fsd-import/layer-imports": "error",
-        "@fsd-import/public-api": "error",
+        "@fsd-import/public-api-imports": "error",
       },
       languageOptions: {
         globals: {
